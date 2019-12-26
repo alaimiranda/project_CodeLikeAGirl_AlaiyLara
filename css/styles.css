@@ -1,0 +1,15 @@
+.titulo{
+    text-align: center; 
+    vertical-align: middle; 
+    background-color: #DD975B; 
+    padding: 20px;
+    height: 70px; 
+    font-family: 'Courier Prime', monospace;
+    color: white;
+}
+body{
+    background-color: beige;
+}
+.subtitulo { font-family: 'Courier Prime', monospace; }
+
+.lista{ font-family: 'Courier Prime', monospace;}
